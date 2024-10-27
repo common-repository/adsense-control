@@ -1,0 +1,10 @@
+=== Adsense Control ===
+Contributors: xopx
+Donate link: http://#
+Tags: Adsense, control
+Requires at least: 3.0
+Tested up to: 3.1.4
+
+== Description ==
+
+Controls how the post will show up ads and also releases for the visitors from Google
